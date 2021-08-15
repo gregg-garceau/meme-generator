@@ -2,7 +2,8 @@ var meme = document.querySelector('main');
 
 var memeUrl = document.querySelector('input');
 
-var memeCollection = ["https://static.thehoneycombers.com/wp-content/uploads/sites/4/2020/03/Best-funny-Coronavirus-memes-2020-Honeycombers-Bali-30.jpeg",
+var memeCollection = [
+  "https://static.thehoneycombers.com/wp-content/uploads/sites/4/2020/03/Best-funny-Coronavirus-memes-2020-Honeycombers-Bali-30.jpeg",
   "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/index-1608304523.jpg",
   "https://i.pinimg.com/564x/eb/2c/e0/eb2ce0e34b16c6e5c2910a18a2806bf8.jpg",
   "https://i.pinimg.com/originals/85/e0/0e/85e00e2c48d7a590206166ba5ec8c3f9.jpg",
