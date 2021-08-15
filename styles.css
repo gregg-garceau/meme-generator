@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: steelblue;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 200px;
+  letter-spacing: 1px;
+  color: whitesmoke;
+}
+
+h2 {
+  font-weight: 100px;
+  letter-spacing: 1px;
+  color: whitesmoke;
+}
+
+input {
+  width: 300px;
+  padding: 0 8px;
+  margin-right: 2px;
+  background-color: #48494b;
+  color: whitesmoke;
+}
+
+button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+input,
+button {
+  height: 31px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.meme {
+  width: 600px;
+  height: 600px;
+}
+
+main {
+  margin: 32px auto;
+  max-width: 940px;
+  display: flex;
+  justify-content: center;
+}
